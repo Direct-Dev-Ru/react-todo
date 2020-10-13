@@ -1,0 +1,34 @@
+.addTodo__block {
+
+    text-align: center;
+    border: 1px dotted #ccc;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .5rem 1rem;
+    border: 1px solid #ccc;
+    margin: 0px auto;
+    min-width: 80wh;
+}
+
+.addTodo__block form {
+    min-width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.addTodo__block input {
+
+    margin: 10px;
+    flex-grow: 4;
+    font-size: 20px;
+    
+}
+
+.addTodo__block button {
+    font-size: 20px;
+    flex-grow: 1;
+    background-color: burlywood;
+    
+}

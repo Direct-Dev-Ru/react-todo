@@ -1,0 +1,9 @@
+.App {
+  text-align: center;    
+}
+
+div.App p{
+  font-size: 36px;
+  color: blueviolet;
+  font-weight: 500;
+}

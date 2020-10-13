@@ -1,0 +1,11 @@
+.todolist__wrapper{
+
+    text-align: center;
+    border: 1px dotted #ccc;
+    border-radius: 15px;
+    
+    padding: .5rem 1rem;
+    border: 1px solid #ccc;
+    margin: 0px auto;
+    min-width: 80wh;
+}
